@@ -7,6 +7,7 @@ poetry install
 ./manage.py createsuperuser
 
 
+
 For testing URLs:
 
 bookings/                  - GET
