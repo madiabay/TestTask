@@ -8,6 +8,9 @@ poetry install
 
 
 For testing URLs:
+
 bookings/                  - GET
+
 bookings/                  - POST
+
 bookings/<uuid:pk>/cancel/ - DELETE
